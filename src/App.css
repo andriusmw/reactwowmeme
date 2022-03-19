@@ -36,3 +36,113 @@
     transform: rotate(360deg);
   }
 }
+
+/*----------------------*/
+
+
+
+.imagen {
+  width: 100%;
+}
+
+/*----------------------MEDIA QUERY------------------------*/
+
+
+
+
+/***************************************************** 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+**************************************************** */
+
+@media (min-width: 1025px) {
+  
+  /* CSS */
+  .linea1 {
+    margin-top: 60px;
+    font-size: 70px;
+    position: absolute;
+    color: white;
+    text-shadow: -3px -2px 2px rgb(255 255 255 / 10%), 2px 2px 2px rgb(0 0 0 / 50%);
+    width: 100%;
+    left: 0px;
+  }
+  
+  .linea2{
+    margin-top: 85%;
+    font-size: 70px;
+    position: absolute;
+    color: white;
+    text-shadow: -3px -2px 2px rgb(255 255 255 / 10%), 2px 2px 2px rgb(0 0 0 / 50%);
+    width: 100%;
+    left: 0px;
+  }
+  
+  
+}
+
+
+
+/***************************************************** 
+  ##Device = Tablets, Ipads (portrait)
+
+*******************************************************/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  .linea1 {
+    margin-top: 60px;
+    font-size: 50px;
+    position: absolute;
+    color: white;
+    text-shadow: -3px -2px 2px rgb(255 255 255 / 10%), 2px 2px 2px rgb(0 0 0 / 50%);
+    width: 100%;
+    left: 0px;
+  }
+  
+  .linea2{
+    margin-top: 85%;
+    font-size: 50px;
+    position: absolute;
+    color: white;
+    text-shadow: -3px -2px 2px rgb(255 255 255 / 10%), 2px 2px 2px rgb(0 0 0 / 50%);
+    width: 100%;
+    left: 0px;
+  }
+  
+  
+}
+
+/*****************************************************  
+  ##movil
+
+**************************************************** */
+
+@media  (max-width: 767px) {
+  
+  /* CSS */
+
+  .linea1 {
+    margin-top: 60px;
+    font-size: 38px;
+    position: absolute;
+    color: white;
+    text-shadow: -3px -2px 2px rgb(255 255 255 / 10%), 2px 2px 2px rgb(0 0 0 / 50%);
+    width: 100%;
+    left: 0px;
+  }
+  
+  .linea2{
+    margin-top: 85%;
+    font-size: 38px;
+    position: absolute;
+    color: white;
+    text-shadow: -3px -2px 2px rgb(255 255 255 / 10%), 2px 2px 2px rgb(0 0 0 / 50%);
+    width: 100%;
+    left: 0px;
+  }
+  
+  
+}
+
