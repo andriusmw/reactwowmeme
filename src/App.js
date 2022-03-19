@@ -88,7 +88,7 @@ const onClickExportar = function (evento) {
 
       <p>boton exportar</p>
 
-      <button onClick={onClickExportar} >Exportar</button>
+      <button onClick={onClickExportar} >Exportar MEME</button>
 
         
                <div id='meme'>
