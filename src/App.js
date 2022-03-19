@@ -64,12 +64,16 @@ const onClickExportar = function (evento) {
     <div className="App">
       <p>Select picker de memes</p>
       <select onChange={onChangeImagen} >
-        <option value="fire"  >Casa en llamas</option>
-        <option value="Futurama" >Futurama</option>
-        <option value="History" >History Channel</option>
-        <option value="Matrix" >Matrix</option>
-        <option value="Philo">Philosophyraptor</option>
-        <option value="Smart" >Smart Guy</option>
+        <option value="arthas2"  >ARTHAS</option>
+        <option value="arthasCure" >ARTHAS2</option>
+        <option value="ChuckNorris" >CHUCK NORRIS</option>
+        <option value="denatrhius" >Denatrhius</option>
+        <option value="iamamage">I am a mage</option>
+        <option value="mohakgrenade" >Mr T</option>
+        <option value="OzzyOsbourne" >Ozzy Prince of Darness</option>
+        <option value="ScaredGenn" >Scared Genn</option>
+        <option value="sylvanas" >Evil Sylvanas</option>
+      
 
       </select>
 
@@ -90,7 +94,7 @@ const onClickExportar = function (evento) {
                <div id='meme'>
           <span className='linea1' >{linea1}</span> <br />
           <span className='linea2'>{linea2}</span>  <br />
-          <img className='imagen' src={"/img/" + imagen + ".jpg"} alt='seleciona una imagen'></img>
+          <img className='imagen' src={"/img/" + imagen + ".png"} alt='seleciona una imagen'></img>
         
      
       </div>
