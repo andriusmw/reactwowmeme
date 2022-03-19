@@ -79,7 +79,7 @@ const onClickExportar = function (evento) {
 
       <p>Input text -Primera linea</p>
 
-      <input onChange={onChangeLinea1} type="text" placeholder="linea 1" />
+      <input type="text" onChange={onChangeLinea1}  placeholder="linea 1" />
       
 
       <p>Input text- Segunda linea</p>

@@ -69,6 +69,8 @@
     text-shadow: -3px -2px 2px rgb(255 255 255 / 10%), 2px 2px 2px rgb(0 0 0 / 50%);
     width: 100%;
     left: 0px;
+    max-width: 25%;
+    margin-left: 38%;
   }
   
   .linea2{
@@ -79,6 +81,8 @@
     text-shadow: -3px -2px 2px rgb(255 255 255 / 10%), 2px 2px 2px rgb(0 0 0 / 50%);
     width: 100%;
     left: 0px;
+    max-width: 25%;
+    margin-left: 38%;
   }
   
   
@@ -102,6 +106,8 @@
     text-shadow: -3px -2px 2px rgb(255 255 255 / 10%), 2px 2px 2px rgb(0 0 0 / 50%);
     width: 100%;
     left: 0px;
+    max-width: 60%;
+    margin-left: 20%;
   }
   
   .linea2{
@@ -112,6 +118,8 @@
     text-shadow: -3px -2px 2px rgb(255 255 255 / 10%), 2px 2px 2px rgb(0 0 0 / 50%);
     width: 100%;
     left: 0px;
+    max-width: 60%;
+    margin-left: 20%;
   }
 
   .App {
@@ -139,6 +147,8 @@
     text-shadow: -3px -2px 2px rgb(255 255 255 / 10%), 2px 2px 2px rgb(0 0 0 / 50%);
     width: 100%;
     left: 0px;
+    max-width: 60%;
+    margin-left: 20%;
   }
   
   .linea2{
@@ -149,6 +159,8 @@
     text-shadow: -3px -2px 2px rgb(255 255 255 / 10%), 2px 2px 2px rgb(0 0 0 / 50%);
     width: 100%;
     left: 0px;
+    max-width: 60%;
+    margin-left: 20%;
   }
 
   .App {
