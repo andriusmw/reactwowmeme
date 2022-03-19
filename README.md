@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+El initil commit de este proyecto lo he hecho importando el trabajo previo de mi directorio anterior: https://github.com/andriusmw/react1
 
 ## Available Scripts
 
