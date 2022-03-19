@@ -92,8 +92,8 @@ const onClickExportar = function (evento) {
 
         
                <div id='meme'>
-          <span className='linea1' >{linea1}</span> <br />
-          <span className='linea2'>{linea2}</span>  <br />
+          <span className='linea1'>{linea1}</span> 
+          <span className='linea2'>{linea2}</span>  
           <img className='imagen' src={"/img/" + imagen + ".png"} alt='seleciona una imagen'></img>
         
      
