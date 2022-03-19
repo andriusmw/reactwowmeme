@@ -133,7 +133,7 @@
 
   .linea1 {
     margin-top: 60px;
-    font-size: 38px;
+    font-size: 25px;
     position: absolute;
     color: white;
     text-shadow: -3px -2px 2px rgb(255 255 255 / 10%), 2px 2px 2px rgb(0 0 0 / 50%);
@@ -142,13 +142,18 @@
   }
   
   .linea2{
-    margin-top: 85%;
-    font-size: 38px;
+    margin-top: 52%;
+    font-size: 25px;
     position: absolute;
     color: white;
     text-shadow: -3px -2px 2px rgb(255 255 255 / 10%), 2px 2px 2px rgb(0 0 0 / 50%);
     width: 100%;
     left: 0px;
+  }
+
+  .App {
+    max-width: 60%;
+    margin-left: 20%;
   }
   
   
