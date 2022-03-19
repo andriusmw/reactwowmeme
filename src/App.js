@@ -9,8 +9,8 @@ import html2canvas from 'html2canvas';
 
 function App() {
 
-const [linea1, setlinea1] = useState('Hola Mundo1');
-const [linea2, setlinea2] = useState('Hola Mundo2');
+const [linea1, setlinea1] = useState('');
+const [linea2, setlinea2] = useState('');
 const [imagen, setimagen]= useState('');
 //esto se llama crear un estado, dentro del parentesis se le
 //pasa valor pro defecto a useState(). 
@@ -98,6 +98,9 @@ const onClickExportar = function (evento) {
         
      
       </div>
+
+
+   
     </div>
   );
 }
